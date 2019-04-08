@@ -16,7 +16,7 @@ sklearn
 
 ## Example to run the codes.
 ```
-python main.py --dataset
+python main.py --dataset dataset
 ```
 
 ## Config
